@@ -184,7 +184,7 @@ body {
     url(../images/hero/bg.jpg);
   background-size: cover;
   text-align: center;
-  width: 1600px;
+  max-width: 1600px;
   height: 600px;
 }
 
@@ -396,8 +396,6 @@ body {
 .clients {
   padding-top: 94px;
   padding-bottom: 94px;
-  padding-left: 215px;
-  padding-right: 215px;
 }
 
 .clients-title {
